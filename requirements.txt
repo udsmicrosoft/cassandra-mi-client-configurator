@@ -3,7 +3,7 @@ azure-core==1.29.4
 azure-identity==1.14.0
 azure-mgmt-authorization==4.0.0
 azure-mgmt-core==1.4.0
-azure-mgmt-cosmosdb==9.3.0
+azure-mgmt-cosmosdb==9.4.0
 azure-mgmt-resource==23.0.1
 certifi==2023.7.22
 cffi==1.16.0
